@@ -1,0 +1,16 @@
+{
+  "name": "binance",
+  "version": "1.0.0",
+  "main": "index.js", 
+  "keywords": ["Binance","Bot"],
+  "author": "Eduardo Kawassaki Ferreira",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/node": "^14.14.33",
+    "readline-sync": "^1.4.10",
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.6.3",
+    "ws": "^8.5.0"
+  }
+}
